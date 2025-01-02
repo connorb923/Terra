@@ -2,4 +2,4 @@ title: Terra
 description: A Procedural Generation and Noise Library written in lua/luau
 show_downloads: false
 google_analytics:
-remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+remote_theme: carlosperate/jekyll-theme-rtd
