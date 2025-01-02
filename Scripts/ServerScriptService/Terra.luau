@@ -50,7 +50,7 @@ Terra.Options = {}
 
 Terra.Options.isBiomesEnabled    = true -- This enables\disables the Biomes Module
 Terra.Options.isChunksEnabled    = true -- This enables\disables the Chunks Module
-Terra.Options.isRenderingEnabled = false -- This enables\disables rendering (Reccomended as this is only for visualising the finalized noise maps, you need to have your own terrain generation)
+Terra.Options.isRenderingEnabled = true -- This enables\disables rendering (See Documentation for custom rendering as the Rendering module is really basic, only displaying basic colors and no stuctures)
 
 -- Subclasses
 
