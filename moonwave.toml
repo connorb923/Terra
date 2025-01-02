@@ -1,0 +1,14 @@
+source = "./Scripts/ServerScriptService"
+output = "./docs"
+theme = "default"
+title = "Terra"
+readme = "./README.md"
+
+[ignore]
+patterns = [
+    "*.test.luau",
+    "*.backup.luau"
+]
+
+roblox-types = true
+live-preview = true
