@@ -18,7 +18,8 @@ Terra contains 4 Modules and 2 Submodules:
        - Tools
 
 ----------------------------------------------------
-         Read the Readme file for more info         
+   Read the Readme file in the repo for more info   
+            github repo connorb923/Terra
 
 ]]
 
@@ -39,10 +40,20 @@ Terra.Options.isRenderingEnabled = true
 
 -- Subclasses
 
-
+--- @class Terra
+--- @field Biomes BiomesModule The Biomes module. Contains functions for creating biomes.
 Terra.Biomes    = require(script.Biomes)
+
+--- @class Terra
+--- @field Chunks ChunksModule The Chunks module. Contains functions for chunks.
 Terra.Chunks    = require(script.Chunks)
+
+--- @class Terra
+--- @field Rendering RenderingModule The Rendering Module. Contains functions for generating terrain from noise.
 Terra.Rendering = require(script.Rendering)
+
+--- @class Terra
+--- @field Noise NoiseModule The Noise module. Contains functions for generating noise.
 Terra.Noise     = require(script.Noise)
 
 return Terra
