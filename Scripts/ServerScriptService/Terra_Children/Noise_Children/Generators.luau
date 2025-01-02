@@ -1,3 +1,3 @@
-local module = {}
+local Generators = {}
 
-return module
+return Generators

@@ -1,3 +1,3 @@
-local module = {}
+local Noise = {}
 
-return module
+return Noise

@@ -1,3 +1,3 @@
-local module = {}
+local Biomes = {}
 
-return module
+return Biomes

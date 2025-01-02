@@ -1,3 +1,3 @@
-local module = {}
+local Rendering = {}
 
-return module
+return Rendering

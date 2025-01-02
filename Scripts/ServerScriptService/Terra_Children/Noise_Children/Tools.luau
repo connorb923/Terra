@@ -1,3 +1,3 @@
-local module = {}
+local Tools = {}
 
-return module
+return Tools

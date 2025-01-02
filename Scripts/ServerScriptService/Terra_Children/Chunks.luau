@@ -1,3 +1,3 @@
-local module = {}
+local Chunks = {}
 
-return module
+return Chunks
