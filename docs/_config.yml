@@ -1,5 +1,8 @@
 title: Terra
 description: A Procedural Generation and Noise Library written in lua/luau
-show_downloads: false
-google_analytics:
 remote_theme: carlosperate/jekyll-theme-rtd
+
+site_author: Connor B.
+prev_next_buttons_location: bottom
+search_enabled: true
+edit_on_github: false
