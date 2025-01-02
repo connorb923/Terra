@@ -1,4 +1,4 @@
-# Terra
+# Terra 🌎
 
 **A Procedural Generation and Noise Library written in Luau for Roblox.**
 
