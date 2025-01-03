@@ -1,3 +1,0 @@
-local Biomes = {}
-
-return Biomes

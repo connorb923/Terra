@@ -1,3 +1,0 @@
-local Chunks = {}
-
-return Chunks
